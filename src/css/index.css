@@ -1,0 +1,55 @@
+.margin {
+  margin: 100px;
+}
+
+.table {
+  width: 100%;
+  text-align: left;
+}
+
+.table td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+  margin: 0;
+}
+
+#menu {
+  background-color: #253a46;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#menu a {
+  color: white;
+  padding-right: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.color-red{
+  color: darkred;
+}
+
+.publications-title{
+  border-top: 1px solid darkgray;
+  cursor: pointer;
+}
+
+li  {
+  margin: 15px 0 15px 0
+}
+
+.container_tasks {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+
+.m_left {
+  margin-left: 20px;
+}
