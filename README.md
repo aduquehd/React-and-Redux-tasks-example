@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##
+This is an example project using React and Redux. It's using the Fake API https://jsonplaceholder.typicode.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
